@@ -10,13 +10,12 @@
 - Tải Krnl: [Download](https://krnl.live)
 - Lấy Key Krnl: [Get Key](https://cdn.krnl.place/getkey.php)
 - Tìm **Script** game **Roblox**: [Roblox Scripts](https://www.rblxscripts.net)
-## Soon
+## Lore
 - Soon
 
 - Soon
 
 - Soon
-
 
 
 
