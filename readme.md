@@ -9,6 +9,7 @@
 - [Profile Roblox](https://www.roblox.com/users/804791922/profile)
 - Tải Krnl: [Download](https://krnl.live)
 - Lấy Key Krnl: [Get Key](https://cdn.krnl.place/getkey.php)
+- Lấy Key Mukuro : [Get](https://quartyz.dev)
 - Tìm **Script** game **Roblox**: [Roblox Scripts](https://www.rblxscripts.net)
 ## Lore
 - Soon
