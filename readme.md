@@ -6,6 +6,7 @@
 
 - [Discord](https://discord.gg/WZsXdpUX2e): Nguyen Thi Nhy#4441
 - [Facebook](https://facebook.com/dduong.19208)
+- [Blox Fruit](https://www.roblox.com/games/2753915549/RACE-V4-Blox-Fruits)
 - [Profile Roblox](https://www.roblox.com/users/804791922/profile)
 - Tải Krnl: [Download](https://krnl.live)
 - Lấy Key Krnl: [Get Key](https://cdn.krnl.place/getkey.php)
