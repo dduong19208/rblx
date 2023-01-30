@@ -2,7 +2,7 @@
 
 ## Public Script
 
-- Click vào đây để lấy Scripts **Blox Fruit**. [Lấy](https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader)
+- [Click here](https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader) to get **Script Blox Fruit**.
 
 - [Facebook](https://facebook.com/dduong.19208)
 - [Blox Fruit](https://www.roblox.com/games/2753915549/RACE-V4-Blox-Fruits)
