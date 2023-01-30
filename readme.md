@@ -12,7 +12,7 @@
 - [Get Key Krln](https://cdn.krnl.place/getkey.php)
 - [Get Key Mukuro](https://quartyz.dev)
 ## Browser
-- Find **Script** **Roblox** game: [Roblox Scripts](https://www.rblxscripts.net)
+- Find **Script** **Roblox** game at [rblxscripts.net](https://www.rblxscripts.net)
 ## Lore
 - Soon
 
