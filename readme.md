@@ -8,7 +8,7 @@
 - [Blox Fruit](https://www.roblox.com/games/2753915549/RACE-V4-Blox-Fruits)
 - [Profile Roblox](https://www.roblox.com/users/804791922/profile)
 ## Tools Game
-- [Download Krnl](https://krnl.live)
+* Exploit[Download Krnl](https://krnl.live)
 - [Get Key Krln](https://cdn.krnl.place/getkey.php)
 - [Get Key Mukuro](https://quartyz.dev)
 ## Browser
