@@ -2,7 +2,7 @@
 
 ## Public Script
 
-- [Click here](https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader) to get **Script Blox Fruit**.
+- [Click here](https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader) to get **Premium Script Blox Fruit**.
 ## Info
 - [Facebook](https://facebook.com/dduong.19208)
 - [Profile Roblox](https://www.roblox.com/users/804791922/profile)
