@@ -12,6 +12,7 @@
 - [Get Key Mukuro](https://quartyz.dev)
 ## Browser
 - Find **Script** **Roblox** game at [rblxscripts.net](https://www.rblxscripts.net)
+- [**Blox Fruits Wiki**](https://blox-fruits.fandom.com/wiki/Blox_Fruits)
 ## Lore
 - Soon
 
