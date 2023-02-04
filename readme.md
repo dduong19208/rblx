@@ -9,13 +9,13 @@
 ## Tools Game
 - [**Download Krnl**](https://krnl.live)
 - [**Get Key Krln**](https://cdn.krnl.place/getkey.php)
-- `~~[**Get Key Mukuro**](https://quartyz.dev)~~`
+- [**Get Key Mukuro**](https://quartyz.dev)
 ## Browser
 - Find **Script** **Roblox** game at [rblxscripts.net](https://www.rblxscripts.net)
 - [**Blox Fruits Wiki**](https://blox-fruits.fandom.com/wiki/Blox_Fruits)
 ## Lore
 - Soon
 
-- Soon
+- _Soon_
 
-- Soon
+- __Soon__
