@@ -11,6 +11,7 @@
 - [**Download Krnl**](https://krnl.live)
 - [**Get Key Krln**](https://cdn.krnl.place/getkey.php)
 - [**Get Key Mukuro**](https://quartyz.dev)
+- [**Get Key HoHoV2**](https://hohohubv.herokuapp.com/getkey)
 
 ## Browser
 - Find **Script** **Roblox** game at [rblxscripts.net](https://www.rblxscripts.net)
