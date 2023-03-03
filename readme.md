@@ -1,6 +1,7 @@
 # By dduong.19208
 ## Public Script
-- [**.**](https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader)
+- [**Mukuro**](https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader)
+- [HohoV2](https://github.com/acsu123/HOHO_H/blob/main/Loading_UI)
 
 ## Info
 - [**Facebook**](https://facebook.com/dduong.19208)
