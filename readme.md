@@ -10,7 +10,7 @@
 ## Tools Game
 - [**Download Krnl**](https://krnl.live)
 - [**Get Key Krln**](https://cdn.krnl.place/getkey.php)
-- [**Get Key Mukuro**](https://quartyz.dev)
+- [**Get Key Mukuro**](https://cutiez.xyz/getkey?service=Mukuro&hwid=804791922)
 - [**Get Key HoHoV2**](https://hohohubv.herokuapp.com/getkey)
 
 ## Browser
